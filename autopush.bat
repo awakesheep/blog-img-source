@@ -6,3 +6,4 @@ git add .
 git commit -m "%var%"
 npm version patch
 git push origin main
+pause
