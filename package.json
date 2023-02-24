@@ -1,6 +1,6 @@
 {
   "name": "awakesheep-assets",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "awakesheep的图床资源",
   "main": "index.js",
   "scripts": {
