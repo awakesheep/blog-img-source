@@ -19,6 +19,7 @@ git push
 
 # 版本说明
 
+```
 ├─anime@2.0.2
 │  ├─angel-beats
 │  ├─attack-on-titan
@@ -26,8 +27,8 @@ git push
 ├─filter@2.0.3
 ├─gif@2.0.4
 ├─icon@2.0.5
-├─pwallpaper
-├─wallpaper
+├─pwallpaper@2.0.6
+├─wallpaper@2.0.7
 └─web-source @2.0.1
       └─post-images
           ├─AliECS-to-Visit-OSS-Internal
@@ -38,3 +39,4 @@ git push
           ├─git-common-command
           ├─html-note
           └─Impressions-of-Why-We-Sleep
+```
