@@ -19,16 +19,16 @@ git push
 
 # 版本说明
 
-**├─anime@2.0.2**
-**│  ├─angel-beats**
-**│  ├─attack-on-titan**
-**│  └─demon-slayer**
-**├─filter@2.0.3**
-**├─gif@2.0.4**
-**├─icon**
-**├─pwallpaper**
-**├─wallpaper**
-**└─web-source @2.0.1**
+├─anime@2.0.2
+│  ├─angel-beats
+│  ├─attack-on-titan
+│  └─demon-slayer
+├─filter@2.0.3
+├─gif@2.0.4
+├─icon@2.0.5
+├─pwallpaper
+├─wallpaper
+└─web-source @2.0.1
       └─post-images
           ├─AliECS-to-Visit-OSS-Internal
           ├─Build-the-Blog-Site
